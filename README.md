@@ -6,6 +6,13 @@
 投影片：
 
 * [Python基礎](https://bit.ly/2H0qsc8)
+* [Numpy簡介](https://bit.ly/3nU3Rih)
+* [MatPlotLib簡介](https://bit.ly/3lOIBbZ)
+* [Pandas簡介](https://bit.ly/2H7Klhl)
+
+練習題：
+
+* [Python Exercises](https://github.com/victorgau/python_exercises)
 
 相關網址：
 
