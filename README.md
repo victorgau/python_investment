@@ -20,10 +20,6 @@
 
 * [Python Exercises](https://github.com/victorgau/python_exercises)
 
-常用資料下載連結：
-
-* [政府資料開放平台](https://data.gov.tw/)
-
 相關網址：
 
 * [唯客學院](https://victorgau.com/)

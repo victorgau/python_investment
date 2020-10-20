@@ -36,5 +36,6 @@
 
 ## 其他網址：
 
+* [政府資料開放平台](https://data.gov.tw/)
 * [開放資料-每月國內主要金融指標](https://data.gov.tw/dataset/30815)
 * [開放資料-年度國內主要金融指標](https://data.gov.tw/dataset/130490)
