@@ -29,7 +29,3 @@
 * [唯客學院](https://victorgau.com/)
 * [FB粉絲頁](https://www.facebook.com/KHPYAcademy/)
 
-其他網址：
-
-* [開放資料-每月國內主要金融指標](https://data.gov.tw/dataset/30815)
-* [開放資料-年度國內主要金融指標](https://data.gov.tw/dataset/130490)
