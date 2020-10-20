@@ -9,12 +9,27 @@
 * [Numpy簡介](https://bit.ly/3nU3Rih)
 * [MatPlotLib簡介](https://bit.ly/3lOIBbZ)
 * [Pandas簡介](https://bit.ly/2H7Klhl)
+* [網頁結構及通訊協定介紹](http://bit.ly/36sEEmn)
+
+補充資料：
+
+* [numpy補充資料](numpy補充資料.md)
+* [pandas補充資料](pandas補充資料.md)
 
 練習題：
 
 * [Python Exercises](https://github.com/victorgau/python_exercises)
 
+常用資料下載連結：
+
+* [政府資料開放平台](https://data.gov.tw/)
+
 相關網址：
 
 * [唯客學院](https://victorgau.com/)
 * [FB粉絲頁](https://www.facebook.com/KHPYAcademy/)
+
+其他網址：
+
+* [開放資料-每月國內主要金融指標](https://data.gov.tw/dataset/30815)
+* [開放資料-年度國內主要金融指標](https://data.gov.tw/dataset/130490)
