@@ -24,9 +24,9 @@
 
 * [mplfinance](https://github.com/matplotlib/mplfinance)
 * [Shioaji下單API](https://sinotrade.github.io/)
-* [ffn](https://pmorissette.github.io/ffn/)
-* [ta-lib](https://github.com/mrjbq7/ta-lib)
-* [ta-lib說明頁](http://mrjbq7.github.io/ta-lib/)
+* [ffn(Financial Functions for Python)](https://pmorissette.github.io/ffn/)
+* [ta-lib python wrapper github](https://github.com/mrjbq7/ta-lib)
+* [ta-lib使用說明](http://mrjbq7.github.io/ta-lib/)
 
 學院網址及粉絲頁：
 
