@@ -20,8 +20,15 @@
 
 * [Python Exercises](https://github.com/victorgau/python_exercises)
 
-相關網址：
+其他連結：
+
+* [mplfinance](https://github.com/matplotlib/mplfinance)
+* [Shioaji下單API](https://sinotrade.github.io/)
+* [ffn](https://pmorissette.github.io/ffn/)
+* [ta-lib](https://github.com/mrjbq7/ta-lib)
+* [ta-lib說明頁](http://mrjbq7.github.io/ta-lib/)
+
+學院網址及粉絲頁：
 
 * [唯客學院](https://victorgau.com/)
 * [FB粉絲頁](https://www.facebook.com/KHPYAcademy/)
-
