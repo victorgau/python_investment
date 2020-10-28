@@ -24,6 +24,7 @@
 
 * [messagepack](https://msgpack.org/index.html)
 * [mplfinance](https://github.com/matplotlib/mplfinance)
+* [mplfinance style](https://github.com/matplotlib/mplfinance/blob/master/examples/styles.ipynb)
 * [Shioaji下單API](https://sinotrade.github.io/)
 * [ffn(Financial Functions for Python)](https://pmorissette.github.io/ffn/)
 * [ta-lib python wrapper github](https://github.com/mrjbq7/ta-lib)
